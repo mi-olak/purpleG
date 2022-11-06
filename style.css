@@ -264,6 +264,15 @@ p {
   padding: 1%;
   text-align: center;
 }
+.star {
+    text-align: center;
+    margin: 0% 45%;
+    padding: 0%;
+}
+.star img {
+    padding: 0%;
+    margin: 0%;
+}
 
 @media (min-width: 770px) {
   .first-page h2 {
@@ -369,7 +378,6 @@ p {
   }
   .footer span {
     text-align: center;
-    border: 1px solid greenyellow;
     margin: 0% 33%;
   }
   .main-nav {
